@@ -1,0 +1,17 @@
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\bin\Debug\CourseManagementPortal.exe.config
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\bin\Debug\CourseManagementPortal.exe
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\bin\Debug\CourseManagementPortal.pdb
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.csproj.AssemblyReference.cache
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.Form1.resources
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.Properties.Resources.resources
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.csproj.GenerateResource.cache
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.csproj.CoreCompileInputs.cache
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.exe
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.pdb
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.Registration.resources
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.Main.resources
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.StartCourse.resources
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.AttendenceAndFeedbacks.resources
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.CreateCourse.resources
+C:\Users\Azay\Desktop\CourseManagementPortal\CourseManagementPortal\obj\Debug\CourseManagementPortal.CreateTeacher.resources
